@@ -1,0 +1,17 @@
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/bin/Debug/net8.0/Zoo.Presentation.deps.json
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/bin/Debug/net8.0/Zoo.Presentation.dll
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/bin/Debug/net8.0/Zoo.Presentation.pdb
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/bin/Debug/net8.0/Zoo.Application.dll
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/bin/Debug/net8.0/Zoo.Domain.dll
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/bin/Debug/net8.0/Zoo.Application.pdb
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/bin/Debug/net8.0/Zoo.Domain.pdb
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/obj/Debug/net8.0/Zoo.Presentation.csproj.AssemblyReference.cache
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/obj/Debug/net8.0/Zoo.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/obj/Debug/net8.0/Zoo.Presentation.AssemblyInfoInputs.cache
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/obj/Debug/net8.0/Zoo.Presentation.AssemblyInfo.cs
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/obj/Debug/net8.0/Zoo.Presentation.csproj.CoreCompileInputs.cache
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/obj/Debug/net8.0/Zoo.Pres.C48DFA3C.Up2Date
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/obj/Debug/net8.0/Zoo.Presentation.dll
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/obj/Debug/net8.0/refint/Zoo.Presentation.dll
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/obj/Debug/net8.0/Zoo.Presentation.pdb
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Presentation/obj/Debug/net8.0/ref/Zoo.Presentation.dll

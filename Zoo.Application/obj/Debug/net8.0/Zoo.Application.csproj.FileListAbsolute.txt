@@ -1,0 +1,15 @@
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/bin/Debug/net8.0/Zoo.Application.deps.json
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/bin/Debug/net8.0/Zoo.Application.dll
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/bin/Debug/net8.0/Zoo.Application.pdb
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/bin/Debug/net8.0/Zoo.Domain.dll
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/bin/Debug/net8.0/Zoo.Domain.pdb
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/obj/Debug/net8.0/Zoo.Application.csproj.AssemblyReference.cache
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/obj/Debug/net8.0/Zoo.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/obj/Debug/net8.0/Zoo.Application.AssemblyInfoInputs.cache
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/obj/Debug/net8.0/Zoo.Application.AssemblyInfo.cs
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/obj/Debug/net8.0/Zoo.Application.csproj.CoreCompileInputs.cache
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/obj/Debug/net8.0/Zoo.Appl.11DBBD74.Up2Date
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/obj/Debug/net8.0/Zoo.Application.dll
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/obj/Debug/net8.0/refint/Zoo.Application.dll
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/obj/Debug/net8.0/Zoo.Application.pdb
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/obj/Debug/net8.0/ref/Zoo.Application.dll

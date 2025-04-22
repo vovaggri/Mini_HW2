@@ -1,0 +1,11 @@
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Domain/bin/Debug/net8.0/Zoo.Domain.deps.json
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Domain/bin/Debug/net8.0/Zoo.Domain.dll
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Domain/bin/Debug/net8.0/Zoo.Domain.pdb
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Domain/obj/Debug/net8.0/Zoo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Domain/obj/Debug/net8.0/Zoo.Domain.AssemblyInfoInputs.cache
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Domain/obj/Debug/net8.0/Zoo.Domain.AssemblyInfo.cs
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Domain/obj/Debug/net8.0/Zoo.Domain.csproj.CoreCompileInputs.cache
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Domain/obj/Debug/net8.0/Zoo.Domain.dll
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Domain/obj/Debug/net8.0/refint/Zoo.Domain.dll
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Domain/obj/Debug/net8.0/Zoo.Domain.pdb
+/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Domain/obj/Debug/net8.0/ref/Zoo.Domain.dll
