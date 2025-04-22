@@ -41,8 +41,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Zoo.Application >= 1.0.0",
-      "Zoo.Domain >= 1.0.0"
+      "Zoo.Application >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -72,9 +71,6 @@
           "projectReferences": {
             "/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/Zoo.Application.csproj": {
               "projectPath": "/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/Zoo.Application.csproj"
-            },
-            "/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Domain/Zoo.Domain.csproj": {
-              "projectPath": "/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Domain/Zoo.Domain.csproj"
             }
           }
         }

@@ -148,9 +148,6 @@
             "projectReferences": {
               "/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/Zoo.Application.csproj": {
                 "projectPath": "/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Application/Zoo.Application.csproj"
-              },
-              "/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Domain/Zoo.Domain.csproj": {
-                "projectPath": "/Users/vladimirgrigoryev/RiderProjects/Mini_HW2/Zoo.Domain/Zoo.Domain.csproj"
               }
             }
           }
